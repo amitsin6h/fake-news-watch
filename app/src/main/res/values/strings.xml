@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Fake News Watch</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--news one-->
+    <string name="title_one">UNESCO Declares The Indian Rs. 2000 Note as the best currency in the world.</string>
+    <string name="content_one">UNESCO Declares The Indian Rs. 2000 Note as the best currency in the world.
+        Congratulations to all of us.The new Rs 2000 note has be declared as "THE BEST CURRENCY OF THE WORLD" by UNESCO</string>
+    <!--end news one-->
+
+    <!--news two-->
+    <string name="title_two">Jamshedpur limps back to normalcy after lynching of 7 men.</string>
+    <string name="content_two">Jharkhand steel city of Jamshedpur is limping back to normalcy after large scale
+        violence was witnessed last week. 7 persons were lynched, four of them Muslims, in two separate incidents.
+        The violence was triggered by the circulation of WhatsApp messages of "child lifters" being active in the
+        Kolkhan area of Jamshedpur.</string>
+    <!--end news two-->
+
+
+    <!--news three-->
+    <string name="title_three">Nano GPS chip in new currency notes.</string>
+    <string name="content_three">At the time of the currency demonetisation, TV channels and newspapers
+        had carried stories on how the new ₹2,000 notes had a GPS chip embedded in them.
+        The notes had apparently been designed to ensure that Narendrus aka Narendra Modi wins the
+        fight against black money. Later, the RBI had to step in and clarify that no such advanced
+        features had made their way into the new currency notes.</string>
+    <!--end news three-->
+
+</resources>
